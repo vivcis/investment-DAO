@@ -27,18 +27,10 @@
     "url": "^0.11.0"
   },
   "dependencies": {
-    "@near-wallet-selector/core": "8.2.0",
-    "@near-wallet-selector/ledger": "8.2.0",
-    "@near-wallet-selector/math-wallet": "8.2.0",
-    "@near-wallet-selector/meteor-wallet": "8.2.0",
-    "@near-wallet-selector/modal-ui": "8.2.0",
-    "@near-wallet-selector/my-near-wallet": "8.2.0",
-    "@near-wallet-selector/near-wallet": "8.2.0",
-    "@near-wallet-selector/nightly": "8.2.0",
-    "@near-wallet-selector/nightly-connect": "8.2.0",
-    "@near-wallet-selector/sender": "8.2.0",
-    "@near-wallet-selector/wallet-connect": "8.2.0",
-    "near-api-js": "0.44.2",
+    "@near-wallet-selector/core": "^8.1.4",
+    "@near-wallet-selector/modal-ui": "^8.1.4",
+    "@near-wallet-selector/my-near-wallet": "^8.1.4",
+    "near-api-js": "^2.1.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "regenerator-runtime": "^0.13.11"
